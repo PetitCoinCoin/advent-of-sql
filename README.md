@@ -9,3 +9,5 @@ Day 2: learnt about string manipulation
 Day 3: learnt about XML parsing and array manipulation
 
 Day 4: learnt about functions (thx to Erwin Brandstetter on Stack Overflow), and sorting with NULL
+
+Day 5: learnt about LAG and LEAD to get next and previous rows
