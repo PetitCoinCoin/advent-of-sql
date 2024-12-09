@@ -15,6 +15,6 @@ FROM (
     GROUP BY reindeer_id
 ) tbl_speed
 JOIN reindeers ON tbl_speed.reindeer_id = reindeers.reindeer_id
-WHERE reindeer_name != 'Rudolf'
+WHERE reindeer_name != 'Rudolph'
 ORDER BY max_speed DESC
 LIMIT 3;
