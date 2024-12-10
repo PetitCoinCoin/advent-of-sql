@@ -19,3 +19,5 @@ Day 7: learnt about DISTINCT ON
 Day 8: learnt about recursive CTE, and had the opportunity to apply what was learnt on day 4!
 
 Day 9: nothing fancy today, it could probably be optimized.
+
+Day 10: could have used CASE, but wanted to try something new with FILTER
