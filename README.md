@@ -23,3 +23,5 @@ Day 9: nothing fancy today, it could probably be optimized.
 Day 10: could have used CASE, but wanted to try something new with FILTER
 
 Day 11: thought I could use LAG, but just a simple function. Probably not the most efficient approach.
+
+Day 12: learnt about PERCENT_RANK and DISTINCT ON
