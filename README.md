@@ -27,3 +27,5 @@ Day 11: thought I could use LAG, but just a simple function. Probably not the mo
 Day 12: learnt about PERCENT_RANK and DISTINCT ON
 
 Day 13: learnt about UNNEST and SPLIT_PART
+
+Day 14: JSON manipulation again
