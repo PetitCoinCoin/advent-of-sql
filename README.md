@@ -29,3 +29,5 @@ Day 12: learnt about PERCENT_RANK and DISTINCT ON
 Day 13: learnt about UNNEST and SPLIT_PART
 
 Day 14: JSON manipulation again
+
+Day 15: Well, I didn't manage to correctly setup DB with Postgis extension, and I don't want to spend some time on this now. Too bad I guess I could have learnt about coordinates manipulation. Nevertheless, I used the DBFiddle to solve this, and I just looked at the data. Obviously, this wouldn't have worked with more data...
