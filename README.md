@@ -34,6 +34,8 @@ Day 15: Well, I didn't manage to correctly setup DB with Postgis extension, and 
 
 Day 16: Let's see when I'll setup a correct environnment
 
-Day 17: learnt that datetime manipulain is as painful in SQL as in any other language.
+Day 17: learnt that datetime manipulain is as painful in SQL as in any other language
 
 Day 18: Re-used day 8
+
+Day 19: learnt about CROSS JOIN (and try to do some optimization after my first successful attempt)
