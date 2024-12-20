@@ -39,3 +39,5 @@ Day 17: learnt that datetime manipulain is as painful in SQL as in any other lan
 Day 18: Re-used day 8
 
 Day 19: learnt about CROSS JOIN (and try to do some optimization after my first successful attempt)
+
+Day 20: learnt about string manipulation
