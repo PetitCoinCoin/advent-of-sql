@@ -41,3 +41,5 @@ Day 18: Re-used day 8
 Day 19: learnt about CROSS JOIN (and try to do some optimization after my first successful attempt)
 
 Day 20: learnt about string manipulation, POSITION
+
+Day 21: After LEAD in day 5, I got to use LAG
