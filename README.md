@@ -43,3 +43,5 @@ Day 19: learnt about CROSS JOIN (and try to do some optimization after my first 
 Day 20: learnt about string manipulation, POSITION
 
 Day 21: After LEAD in day 5, I got to use LAG
+
+Day 22: learnt that you cannot sum booleans with Postgresql
