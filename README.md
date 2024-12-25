@@ -47,3 +47,5 @@ Day 21: After LEAD in day 5, I got to use LAG
 Day 22: learnt that you cannot sum booleans with Postgresql (but you can cast them to int!)
 
 Day 23: leant about WHILE loop
+
+Day 24: nothing fancy here, just an annoying song!
